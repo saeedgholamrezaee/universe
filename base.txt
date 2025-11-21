@@ -1,0 +1,11 @@
+System	space energy material movement concept  categories: [things work think] models: [system process logic]  
+Idea or problem Research methodology myth religion philosophy science and technology Plan design dev build test release deploy operate control monitor 
+Cognitive science philosophy psychology	computer science neuroscience anthropology linguistics 
+Business sector plan model register company manage strategic process transaction flow data finance stuff ERP raw program and customize that
+AI rule base statistics	and probability model and neural networks model continues	 math LLM assistant agent langchain map	
+Display server spawn tty device and shell process and pesudo terminal
+LLVM sil IR clang clang++ gcc g++ make autotools cmake Nib/Xib file object dependency and ui real components 
+Python building packages and dependencies manager flit uv poetry pip PDM setup.py pyproject.toml
+Frappe extend with new-app frontend static web directory www template site/assets/app-name vue.js runtime and SPC react rt and jsx hooks.py for all nom: init create install run
+Js dev tools: shx prettier eslint babel webpack browserify esbuild rollup parcel vite 
+Docker build -t name:tag . And can copy all current directory files, Docker Compose, Swarm Kubernetes
