@@ -1,0 +1,6 @@
+Data Information Knowladge
+Computer
+Hardware Frimware Software AI
+System(passive, active) Service Application(program, project, package, module) Extention
+System Administrator, Software Developer, Data, AI
+Owner Manager Engineer Developer Disigner Administrator Operator
