@@ -1,0 +1,56 @@
+134 views  Premiered Nov 22, 2025  Learn Modern C++23
+
+Core Libraries:
+1) 0:30 | https://pocoproject.org
+2) 1:58 | https://github.com/facebook/folly
+3) 2:08 | https://github.com/lewissbaker/cppcoro
+4) 2:38 | https://github.com/cameron314/concurr...
+
+Networking:
+5) 2:58 | https://github.com/SRombauts/SQLiteCpp
+6) 3:45 | https://curl.se/libcurl/
+7) 4:44 | https://think-async.com/Asio/
+ 
+GUI:
+8) 5:45 | https://www.fltk.org/shots.php
+9) 7:26 | https://github.com/ocornut/imgui
+10) 8:18 | https://github.com/rxi/microui
+11) 8:51 | https://github.com/vurtun/nuklear
+ 
+Hardware Abstraction:
+12) 9:28 | https://libsdl.org/
+13) 10:55 | https://www.raylib.com/index.html
+14) 11:37 | https://github.com/bkaradzic/bgfx
+ 
+Audio:
+15) 13:10 | https://github.com/jarikomppa/soloud
+16) 13:15 | https://miniaud.io/
+
+Math:
+17) 13:29 | https://libeigen.gitlab.io/
+18) 13:35 | https://github.com/g-truc/glm
+19) 13:56 | https://www.cryptopp.com/
+ 
+Serialization:
+20) 14:47 | https://www.zlib.net/
+21) 15:18 | https://github.com/nlohmann/json
+22) 15:50 | https://uscilab.github.io/cereal/
+
+Physics:
+23) 16:58 | https://pybullet.org/wordpress/
+24) 17:10 | https://www.ode.org/
+ 
+Testing:
+25) 17:35 | https://github.com/catchorg/Catch2
+ 
+Logging:
+26) 17:58 | https://spdlog.readthedocs.io/en/latest/
+
+Misc:
+27) 18:18 | https://opencv.org/
+28) 19:30 | https://www.capstone-engine.org/
+29) 20:22 | https://www.keystone-engine.org/
+30) 20:40 | https://includeos.github.io/
+
+Written instructions and Code can be found here:
+https://www.erarnitox.de/pub/cpp_tut/
