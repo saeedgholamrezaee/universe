@@ -1,0 +1,7 @@
+these are five method for compile program directory and subdirectory
+
+1- relational path
+2- use compiler flag -I -L
+3- use environment variable such as pythonpath
+4- use of program such as pkg-conf
+5- set building system path such as project_path on cmake or xcode and set this on language flag same -I
