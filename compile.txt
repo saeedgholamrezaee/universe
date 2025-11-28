@@ -14,6 +14,8 @@ compile type:
 4- use of building manager such as cmake
 5- use of IDE for build project
 
+compile time and run time
+
 tools:
 
 assembler compiler interpreter runtime debuger test analyzer 
@@ -25,4 +27,4 @@ package:
 object file, executable, static ar lib jar, share so dylib dll framework
 package as source and binary, operation system package
 
-
+create package on application/user/system/internet wide
