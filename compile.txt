@@ -1,7 +1,28 @@
-these are five method for compile program directory and subdirectory
+these are five method for compile program directory and subdirectory:
 
 1- relational path
 2- use compiler flag -I -L
 3- use environment variable such as pythonpath
 4- use of program such as pkg-conf
 5- set building system path such as project_path on cmake or xcode and set this on language flag same -I
+
+compile type:
+
+1- work with compiler on command line
+2- use of batch file for automate compile
+3- use of build generator such as make and ninja
+4- use of building manager such as cmake
+5- use of IDE for build project
+
+tools:
+
+assembler compiler interpreter runtime debuger test analyzer 
+building generator and manager, package and dependency manager
+template manager, template engine, 
+
+package:
+
+object file, executable, static ar lib jar, share so dylib dll framework
+package as source and binary, operation system package
+
+
