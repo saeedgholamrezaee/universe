@@ -1,4 +1,7 @@
-these are five method for compile program directory and subdirectory:
+# devtools on osx
+osx developer objective-c selector, block, protocol, category xib owner delegate ...
+
+##these are five method for compile program directory and subdirectory:
 
 1- relational path
 2- use compiler flag -I -L
