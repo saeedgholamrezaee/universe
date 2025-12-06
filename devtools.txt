@@ -1,18 +1,18 @@
 data information knowledge
 compuer algorithm porgraming
 theory of other science boolian logic and collection
-hardware
-firmware
-software
-
+Hardware
+Firmware
+Software {
 system[passive/active]
 services[time,log,share,communication,date,directory,automation,interface,fault telorance]
 program[package,module,variable,function,class,extension]
+}
 AI
-user[owner,manager,developer,designer,administrator,operator,customer]
+User[owner,manager,developer,designer,administrator,operator,customer]
 
 develpoer ecosystem[platfor[cpu architecture/OS, SDK/system root/project root,wide package user sysetm domain,
-developer tools, build, test, deploy]
+dev tools, build, test, deploy]
 
 command line tools, build system/executor, build system generator, package manager, bundler
 
