@@ -1,6 +1,3 @@
-Data Information Knowladge
-Computer
-Hardware Frimware Software AI
 System(passive, active) Service Application(program, project, package, module) Extention
 System Administrator, Software Developer, Data, AI
 Owner Manager Engineer Developer Disigner Administrator Operator
@@ -17,8 +14,8 @@ java/.NET create package and use of that in application/system/remote
 java classpath and project manager maven
 .NET GAC nuget
 >>>>>>> d3a5181 (my all files commit after work with reset)
-data information knowledge
-compuer algorithm porgraming
+Data Information Knowladge
+Computer and Algorithm Implementation by Porgraming
 theory of other science boolian logic and collection
 Hardware
 Firmware
