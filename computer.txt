@@ -30,6 +30,8 @@ User[owner,manager,developer,designer,administrator,operator,customer]
 develpoer ecosystem[platfor[cpu architecture/OS, SDK/system root/project root,wide package user sysetm domain,
 dev tools, build, test, deploy]
 
+Kernel interact mechnism is syscall API 
+
 command line tools, build system/executor, build system generator, package manager, bundler
 
 # devtools on osx
