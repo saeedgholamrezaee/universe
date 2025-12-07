@@ -1,15 +1,8 @@
-data information knowledge
-compuer algorithm porgraming
 theory of other science boolian logic and collection
-Hardware
-Firmware
-Software {
 system[passive/active]
 services[time,log,share,communication,date,directory,automation,interface,fault telorance]
 program[package,module,variable,function,class,extension]
 }
-AI
-User[owner,manager,developer,designer,administrator,operator,customer]
 
 develpoer ecosystem[platfor[cpu architecture/OS, SDK/system root/project root,wide package user sysetm domain,
 dev tools, build, test, deploy]
@@ -19,51 +12,15 @@ command line tools, build system/executor, build system generator, package manag
 # devtools on osx
 osx developer objective-c selector, block, protocol, category xib owner delegate ...
 
-##these are five method for compile program directory and subdirectory:
-
-1- relational and absulot path
-2- use compiler flag -I -L
-3- use environment variable such as pythonpath
-4- use of program such as pkg-conf and xcrun
-5- set building system path such as project_path on cmake
-6- xcode and set this on language flag same -I
-
-compile type:
-
-1- work with compiler on command line
-2- use of batch file for automate compile
-3- use of build generator such as make and ninja
-4- use of building manager such as autotools, meson, cmake
-5- use of IDE for build project
-
-compile time and run time
-
-tools:
 
 assembler compiler interpreter runtime debuger test analyzer 
 building generator and manager, package and dependency manager
 template manager, template engine, 
 
-package:
 
 object file, executable, static ar lib jar, share so dylib dll framework
 package as source and binary, operation system package
 
-create package on application/user/system/internet wide
-
-Toolchain
-Toolchain = مجموعه ابزارهای برای ساخت (build) یک برنامه C/C++
-(gcc / clang / msvc)
-
-(ld / lld / link.exe)
-
-استاندارد کتابخانه C/C++ (libstdc++ / libc++ / msvc STL)
-
-مسیرهای include و lib
-
-تنظیمات وابستگی (dependencies)
-
-تنظیمات ABI، architecture و build type
 
 system root path /usr/include /usr/lib  sysroot/isysroot osx isysroot=$(xcrun --show-platform-sdk-path)
 project root path start assembler compiler or interpreter 
