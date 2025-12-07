@@ -1,32 +1,17 @@
-System(passive, active) Service Application(program, project, package, module) Extention
-System Administrator, Software Developer, Data, AI
-Owner Manager Engineer Developer Disigner Administrator Operator
-<<<<<<< HEAD
-=======
-
-AT&T Bel Lab: unix -> v6/7 -> bsd  -> osx
-     	      	   -> srv4 -> sysv -> solarise, HP-UX, AIX
-		   -> 
-C/Cpp create package or library and use of that in application/system/remote
-on unix freeBSD macos linux windows
-
-java/.NET create package and use of that in application/system/remote
-java classpath and project manager maven
-.NET GAC nuget
->>>>>>> d3a5181 (my all files commit after work with reset)
 Data Information Knowladge
 Computer and Algorithm Implementation by Porgraming
 theory of other science boolian logic and collection
-Hardware
+Hardware: Motherboard, cpu, memory, IO(console, file, port), storage, Network
 Firmware
 Software {
 system[passive/active]
 services[time,log,share,communication,date,directory,automation,interface,fault telorance]
-program[package,module,variable,function,class,extension]
+program[project,package,module,variable,function,class,extension]
 }
 AI
-User[owner,manager,developer,designer,administrator,operator,customer]
+User[owner,manager,engineer, developer,designer,administrator,operator,customber]
 
+System Administrator, Software Developer, Data, AI
 develpoer ecosystem[platfor[cpu architecture/OS, SDK/system root/project root,wide package user sysetm domain,
 dev tools, build, test, deploy]
 
@@ -35,6 +20,9 @@ Kernel interact mechnism is syscall API
 command line tools, build system/executor, build system generator, package manager, bundler
 
 # devtools on osx
+AT&T Bel Lab: unix -> v6/7 -> bsd  -> osx
+     	      	   -> srv4 -> sysv -> solarise, HP-UX, AIX
+		   -> 
 osx developer objective-c selector, block, protocol, category xib owner delegate ...
 
 ##these are five method for compile program directory and subdirectory:
@@ -67,9 +55,13 @@ package:
 object file, executable, static ar lib jar, share so dylib dll framework
 package as source and binary, operation system package
 
-create package on application/user/system/internet wide
+create package or library and use of that in application/remote/user/system/internet wide
+on unix freeBSD macos linux windows
 
-Toolchain
+java/.NET create package and use of that in application/system/remote
+java classpath and project manager maven
+.NET GAC nuget
+
 Toolchain = مجموعه ابزارهای برای ساخت (build) یک برنامه C/C++
 (gcc / clang / msvc)
 
