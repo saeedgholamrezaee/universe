@@ -3,7 +3,7 @@ Computer and Algorithm Implementation by Porgraming
 theory of other science boolian logic and collection
 Hardware: Motherboard, cpu, memory, IO(console, file, port), storage, Network
 Firmware
-Software {
+Software { Program to create process on computer
 system[passive/active]
 services[time,log,share,communication,date,directory,automation,interface,fault telorance]
 program[project,package,module,variable,function,class,extension]
