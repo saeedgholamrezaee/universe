@@ -1,3 +1,45 @@
+install_name_tool -change → تغییر مسیر وابستگی‌ها.
+install_name_tool -add_rpath → اضافه کردن مسیر جستجو برای @rpath.
+ترکیب @rpath + @executable_path برای اپلیکیشن‌های bundle بهترین روش است.
+@loader_path برای مجموعهٔ dylibهایی که کنار هم هستند عالی است.
+
+g++ main.cpp -o app -Wl,-rpath,/usr/local/lib
+readelf -d app | grep RPATH
+patchelf --set-rpath /opt/mylibs app
+
+
+
+چهار جزء اصلی در چرخهٔ اجرای برنامه
+Compiler (کامپایلر)
+
+کد منبع (C/C++/…) را به شیء یا اسمبلی ترجمه می‌کند.
+
+خروجی: فایل‌های object (.o) یا باینری میانی.
+
+Linker (لینکر)
+
+فایل‌های object و کتابخانه‌ها را به هم وصل می‌کند.
+
+وابستگی‌ها (static یا dynamic) را در باینری نهایی ثبت می‌کند.
+
+خروجی: یک فایل اجرایی (ELF در لینوکس، Mach-O در macOS).
+
+Loader (بارگذار)
+
+بخشی از سیستم‌عامل است که وقتی کاربر برنامه را اجرا می‌کند، باینری را در حافظه بارگذاری می‌کند.
+
+وظیفه: آماده‌سازی حافظه، map کردن بخش‌های باینری، و انتقال کنترل به نقطهٔ شروع برنامه (main).
+
+Dynamic Linker (لینکر پویا)
+
+زیرمجموعهٔ loader است که مخصوص کتابخانه‌های اشتراکی (.so در لینوکس، .dylib در macOS) عمل می‌کند.
+
+وظیفه: پیدا کردن و بارگذاری کتابخانه‌های مورد نیاز، resolve کردن نمادها (توابع/متغیرها)، و اتصال آن‌ها به باینری اصلی.
+
+اینجاست که متغیرهای محیطی مثل LD_LIBRARY_PATH یا DYLD_LIBRARY_PATH وارد عمل می‌شوند.
+
+
+
 theory of other science boolian logic and collection
 system[passive/active]
 services[time,log,share,communication,date,directory,automation,interface,fault telorance]
