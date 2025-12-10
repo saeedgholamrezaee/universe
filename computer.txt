@@ -3,6 +3,7 @@ Computer and Algorithm Implementation by Porgraming
 theory of other science boolian logic and collection
 Algorithm to Program run as process and OS is process load other process so I/O is important
 Virtualization Program process run OS process like
+Hardware C/Assembly programing language Operation system and driver, Text/Font, information system, graphic, sound, Remoting, Security, Network
 Hardware: Motherboard, cpu, memory, IO(console, file, port), storage, Network
 Firmware
 Software { Program to create process on computer
