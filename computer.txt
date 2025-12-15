@@ -1,4 +1,5 @@
-Data Information Knowladge
+Data Information Knowladge [sensetive, rational, hermenotic, historic, computing, conventional, legacy,
+existasial, skill, tacsi]
 Computer and Algorithm Implementation by Porgraming
 theory of other science boolian logic and collection
 Algorithm to Program run as process and OS is process load other process so I/O is important
@@ -9,31 +10,22 @@ Firmware
 Software { Program to create process on computer
 system[passive/active]
 services[time,log,share,communication,date,directory,automation,interface,fault telorance]
-program[project,package,module,variable,function,class,extension]
+program[bin/lib, soft/frim, ][project,package,module,variable,function,class,extension]
+[compute, process, visualize render/shader, GUI, Playback]
+[platform cpu arch and os kernel syscall,tools sdk/framework, shell, GUI graphic, Audio/sound, Remoting web, ]
 }
-AI
+AI [Rule base, Modelbase ML Deep Neural Net, ]
 User[owner,manager,engineer, developer,designer,administrator,operator,customber]
 
 System Administrator, Software Developer, Data, AI
 develpoer ecosystem[platfor[cpu architecture/OS, SDK/system root/project root,wide package user sysetm domain,
 dev tools, build, test, deploy]
 
-Kernel interact mechnism is syscall API 
-
-command line tools, build system/executor, build system generator, package manager, bundler
-
-# devtools on osx
-AT&T Bel Lab: unix -> v6/7 -> bsd  -> osx
-     	      	   -> srv4 -> sysv -> solarise, HP-UX, AIX
-		   -> 
-osx developer objective-c selector, block, protocol, category xib owner delegate ...
-
-##these are five method for compile program directory and subdirectory:
-
+### Path to find any file with name to achive to modules:	
+## these are five method for compile program directory and subdirectory:
 1- relational and absulot path
-2- use compiler flag -I -L
+2- use compiler flag -I -L and use program same pkg-conf, xcrun to set compile flag
 3- use environment variable such as pythonpath
-4- use of program such as pkg-conf and xcrun
 5- set building system path such as project_path on cmake
 6- xcode and set this on language flag same -I
 
@@ -45,7 +37,7 @@ compile type:
 4- use of building manager such as autotools, meson, cmake
 5- use of IDE for build project
 
-compile time and run time
+compile run link load dynamicLink/time
 
 tools:
 
@@ -65,6 +57,19 @@ java/.NET create package and use of that in application/system/remote
 java classpath and project manager maven
 .NET GAC nuget
 
+Kernel interact mechnism is syscall API 
+
+command line tools, build system/executor, build system generator, package manager, bundler, IDE
+
+# devtools on osx
+AT&T Bel Lab: unix -> v6/7 -> bsd  -> osx
+     	      	   -> srv4 -> sysv -> solarise, HP-UX, AIX
+
+system root path /usr/include /usr/lib  sysroot/isysroot osx isysroot=$(xcrun --show-platform-sdk-path)
+project root path start assembler compiler or interpreter 
+
+osx developer objective-c selector, block, protocol, category xib owner delegate ...
+
 Toolchain = مجموعه ابزارهای برای ساخت (build) یک برنامه C/C++
 (gcc / clang / msvc)
 
@@ -78,5 +83,3 @@ Toolchain = مجموعه ابزارهای برای ساخت (build) یک برن�
 
 تنظیمات ABI، architecture و build type
 
-system root path /usr/include /usr/lib  sysroot/isysroot osx isysroot=$(xcrun --show-platform-sdk-path)
-project root path start assembler compiler or interpreter 
