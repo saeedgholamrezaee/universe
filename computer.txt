@@ -1,7 +1,6 @@
-Data Information Knowladge [sensetive, rational, hermenotic, historic, computing, conventional, legacy,
-existasial, skill, tacsi]
-Computer and Algorithm Implementation by Porgraming
-theory of other science boolian logic and collection
+Data Information Knowladge [Exprimental, Rational, intuitation, Hermenotic, Historic, Computing, Conventional, Legacy, Existasial, Skill, Tacit]
+Computer Implementation Algorithm by Porgraming On platform[ CPU Architecture OS type] by  Developer tools
+Theory science boolian logic and collection
 Algorithm to Program run as process and OS is process load other process so I/O is important
 Virtualization Program process run OS process like
 Hardware C/Assembly programing language Operation system and driver, Text/Font, information system, graphic, sound, Remoting, Security, Network
@@ -18,34 +17,34 @@ AI [Rule base, Modelbase ML Deep Neural Net, ]
 User[owner,manager,engineer, developer,designer,administrator,operator,customber]
 
 System Administrator, Software Developer, Data, AI
-develpoer ecosystem[platfor[cpu architecture/OS, SDK/system root/project root,wide package user sysetm domain,
+develpoer ecosystem[platform[cpu architecture/OS, SDK/system root/project root,wide package user sysetm domain,
 dev tools, build, test, deploy]
 
-### Path to find any file with name to achive to modules:	
-## these are five method for compile program directory and subdirectory:
+Find Modules PATH: preprocessor, compile time, link time, run time, dynamic link time
+
 1- relational and absulot path
 2- use compiler flag -I -L and use program same pkg-conf, xcrun to set compile flag
 3- use environment variable such as pythonpath
 5- set building system path such as project_path on cmake
 6- xcode and set this on language flag same -I
 
-compile type:
+Build Ecosystem types: build[phase[pre, post], tool/system/executor, generator, manager]
 
-1- work with compiler on command line
+1- work with compiler on command line and set flags option switch arguman command
 2- use of batch file for automate compile
 3- use of build generator such as make and ninja
 4- use of building manager such as autotools, meson, cmake
 5- use of IDE for build project
 
-compile run link load dynamicLink/time
+Preprocessor Compile Link Loader DynamicLink/Times
 
 tools:
 
-assembler compiler interpreter runtime debuger test analyzer 
-building generator and manager, package and dependency manager
-template manager, template engine, 
+preprocessor protobof yacc lex assembler compiler interpreter runtime debuger test analyzer profile 
+building generator and manager, package and dependency manager template manager,
+ template engine, 
 
-package:
+Files Directory: Workspace/Solution, Project, Package, Module:
 
 object file, executable, static ar lib jar, share so dylib dll framework
 package as source and binary, operation system package
