@@ -28,7 +28,7 @@ Find Modules PATH: preprocessor, compile time, link time, run time, dynamic link
 5- set building system path such as project_path on cmake
 6- xcode and set this on language flag same -I
 
-Build Ecosystem types: build[phase[pre, post], tool/system/executor, generator, manager]
+Build Ecosystem types: build[pipeline phase[pre, post], tool/system/executor, generator, manager]
 
 1- work with compiler on command line and set flags option switch arguman command
 2- use of batch file for automate compile
