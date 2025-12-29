@@ -17,8 +17,7 @@ AI [Rule base, Modelbase ML Deep Neural Net, ]
 User[owner,manager,engineer, developer,designer,administrator,operator,customber]
 
 System Administrator, Software Developer, Data, AI
-develpoer ecosystem[platform[cpu architecture/OS, SDK/system root/project root,wide package user sysetm domain,
-dev tools, build, test, deploy]
+develpoer build ecosystem[platform[cpu architecture/OS, SDK/system root/project root,wide package user sysetm domain, dev tools[SDK, Framework], lint, build, debug, test, profile, deploy]
 
 Find Modules PATH: preprocessor, compile time, link time, run time, dynamic link time
 
@@ -28,7 +27,7 @@ Find Modules PATH: preprocessor, compile time, link time, run time, dynamic link
 5- set building system path such as project_path on cmake
 6- xcode and set this on language flag same -I
 
-Build Ecosystem types: build[pipeline phase[pre, post], tool/system/executor, generator, manager]
+Build Ecosystem types: build[pipeline phase[pre, post], tool/system/executor, generator, manager, configuration]
 
 1- work with compiler on command line and set flags option switch arguman command
 2- use of batch file for automate compile
