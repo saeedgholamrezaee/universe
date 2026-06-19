@@ -1,0 +1,154 @@
+#############################################################################
+ترمینال فیزیکی
+ (VT100)
+        ↓
+Virtual Console / TTY لینوکس
+        ↓
+Terminal Emulatorهای گرافیکی (GNOME Terminal, Konsole, Windows Terminal)
+
+Terminal
+    ↓
+Bash
+    ↓
+درخواست اجرای برنامه ls از سیستم‌عامل
+    ↓
+خروجی ls
+    ↓
+Bash
+    ↓
+Terminal
+
+برنامه‌های متنی
+    ├─ Shell ها
+    │     ├─ Bash
+    │     ├─ cmd.exe
+    │     └─ PowerShell
+    ├─ برنامه‌های CLI
+    │     ├─ git
+    │     ├─ mysql
+    │     ├─ python
+    │     └─ docker
+    ├─ برنامه‌های TUI
+    │     ├─ nano
+    │     ├─ vim
+    │     ├─ htop
+    └─ سایر برنامه‌های متنی
+
+API یعنی: 
+رابطی که یک نرم‌افزار در اختیار نرم‌افزار دیگر قرار می‌دهد تا بتواند از قابلیت‌های آن استفاده کند.
+
+#############################################################################
+
+#thest/eco/era/ism/ist/zee/hast/pro/plus/lab/gate/hub/bot/orib/ring\daneste/daayeer/stazeen
+
+#Life: -subject(need/want)plan idea, research discovery, resolve problem, -property[efficiency, productivity, practical/theory, simple/complex, cheap/expense, priotiry, schadule/asynchroniz, cause/random, small/long, individual/society], tradition/modernism, -direction(lull):myth religion philosophy -functionality(Comfort):magic sciense technology, behavior/culture
+connect to universe erfan
+
+#Genesis/Creation/Creator/Evolution/Civilization
+#world:material/mean,heuman:body/mind/suol
+#skepticism certainty
+Determinism Free will
+reality truth
+emotivism empiricist rationalist intutive
+object subject
+cause accident
+objective oriented Duty oriented
+absolute relative
+materialism idealism
+existentialism
+nehilism
+absurdism
+omanism
+phenomenon
+perspectivism
+
+#work subject data algorithm computer user
+
+#Review stacks: universe/nature, subject/data/algorithm, electronic, math, computer, programing language, structure, modular, build tools, remote, serialization, data analyse, AI, os component(cli/gui/sound), services, crypto, concurrent, devops, cloud, IoT, blockchain, informtion system, enterprise, game, simulation
+
+#API Types: rpc, SOAP, rest API, webSocket, grpc, graphQL, webHook, webRTC, ASync API, event-driven, mqtt, AMQP, SSE, MCP
+
+#cloud base services: infrastucture, platform, software, function, container, storage, database, desktop, backend, security, AI/ML, network, hight performance computing, monitoring
+#economy, industry, market/money, business, company, enterprise, department/team/employee, organization architecture, system, process, activity, task/transaction
+#--پایگاه دانش (Knowledge Base)
+دانش متخصص در آن ذخیره می‌شود:
+قوانین (Rules)
+حقایق (Facts)
+روابط (Relations)
+--موتور استنتاج (Inference Engine)
+قوانین را اجرا می‌کند و نتیجه می‌گیرد.
+دو روش معروف:
+Forward Chaining
+از داده‌ها شروع می‌کند و به نتیجه می‌رسد.
+Backward Chaining
+از فرضیه شروع می‌کند و بررسی می‌کند آیا شواهد آن وجود دارد یا نه.
+#ERP/TPS  →  ثبت و اجرای عملیات
+سطح کارکنان دانشی:
+KWS
+     └─ ممکن است از Expert System نیز استفاده کند
+MIS      →  گزارش‌گیری مدیریتی
+DSS      →  پشتیبانی از تصمیم
+EIS/ESS  →  اطلاعات استراتژیک مدیران ارشد
+Expert System → استدلال مبتنی بر دانش متخصص
+Data Science / Machine Learning → استخراج دانش از داده‌ها
+#enterprise level: strategic, management, knowledge, transaction
+#enterprise structure mechanism behavior functionality productivity performance valuse culture management
+#manager task: planning, staffing, organizing, directing, coordination, reporting, budgeting
+#enterprise level: management, planning, supervising, contoroling, field
+#odoo ui xml
+#information system: tansaction processing system, office automation system, knowledge work system, management information system, decision support system, expert system, EXECUTIVE SUPPORT SYSTEMS,
+Group decision support systems(GDSS), computer-supported collaborative work systems(CSCWS)
+#data, information, insight, knowledge, wisdom
+#OLTP: mrp erp realtime report balance loss benefit data process information to get mean  
+#OLAP: ODI EssBase analyse[aggregiation, measure, kpi, pivot, cube] insight(short time) hyprion rporting budgting planing knowledge wisdom(long time)
+#microsoft/oracle/python/apache stack
+#oracle history product rdbms pl/sql form report oAF fusion j2ee adf soa OCI identity integrated weblogic
+#kafka messaging: queue, pub/sub
+#architecture, hierarchy, asyncronize, schedule
+#concurrency: time-sliced, parallelism
+system, cpu/gpu, core/SM(streaming multiprocessing)
+task, process, thread/warp(32process)=> core, register, share memory, cache, warp schadule
+concurrent: multithread, async, eventloop, coroutine, actor
+parallel: multithread, multiprocess, distributed
+asynchroniz/communication/schadule: pipe, named pipe, shared memory, message queue, semaphore, mutex, signal, socket, channel
+
+#math arithmetic number shape movement, counting, ogholidos radical 2, logic
+
+# این دسته‌بندی تمام فرآیندهای اصلی در یک سازمان را شامل می‌شود. 🚀
+## 1. Business Processes (فرآیندهای کسب‌وکار)  
+- Customer Relationship Management (CRM)  
+- Sales and Marketing Processes  
+- Supply Chain and Logistics  
+- Financial Transactions and Budgeting  
+## 2. Administrative Processes (فرآیندهای اداری)  
+- Document and Record Management  
+- Correspondence and Archiving  
+- Internal Communications and Coordination  
+- Office and Facility Management  
+## 3. Production Processes (فرآیندهای تولیدی)  
+- Manufacturing and Assembly  
+- Quality Assurance and Control  
+- Inventory and Resource Management  
+- Product Lifecycle Management (PLM)  
+## 4. Operational Processes (فرآیندهای عملیاتی)  
+- Service Delivery and Customer Support  
+- Procurement and Vendor Management  
+- Order Processing and Fulfillment  
+## 5. Management Processes (فرآیندهای مدیریتی)  
+- Strategic Planning and Decision Making  
+- Project Management and Execution  
+- Performance Monitoring and Continuous Improvement  
+## 6. Support Processes (فرآیندهای پشتیبانی)  
+- IT Infrastructure and Support  
+- Human Resource Management (HRM)  
+- Financial Management and Accounting  
+- Facility and Maintenance Services  
+## 7. Innovation & Development Processes (فرآیندهای نوآوری و توسعه)  
+- Research and Development (R&D)  
+- Product and Service Innovation  
+- Business Process Optimization and Digital Transformation  
+## 8. Governance & Compliance Processes (فرآیندهای حاکمیتی و نظارتی)  
+- Corporate Governance and Ethical Standards  
+- Risk Management and Regulatory Compliance  
+- Internal Auditing and Financial Controls  
+- Data Privacy and Cybersecurity  
