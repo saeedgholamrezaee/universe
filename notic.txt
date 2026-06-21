@@ -1,12 +1,36 @@
+Software Engineering
+       ↓
+Development Approaches
+       ↓
+   Waterfall
+   Agile
+       ↓frameworks
+   Scrum
+   Kanban
+   XP
+       ↓
+Development methodology
+       RUP
+       ↓
+DevOps Practices
+
+| مفهوم                    |                دسته‌بندی                |
+| --------- | ------------------------ |
+| Waterfall | Process Model            |
+| Agile     | Philosophy / Methodology |
+| Scrum     | Framework                |
+| Kanban    | Framework                |
+| RUP       | Development Methodology  |
+| DevOps    | Culture + Practices      |
+
 #############################################################################
-ترمینال فیزیکی
- (VT100)
+ترمینال فیزیکی (VT100)
         ↓
 Virtual Console / TTY لینوکس
         ↓
 Terminal Emulatorهای گرافیکی (GNOME Terminal, Konsole, Windows Terminal)
 
-Terminal
+Terminals
     ↓
 Bash
     ↓
@@ -20,18 +44,11 @@ Terminal
 
 برنامه‌های متنی
     ├─ Shell ها
-    │     ├─ Bash
-    │     ├─ cmd.exe
-    │     └─ PowerShell
+    │     ├─ Bash/zsh/cmd.exe/PowerShell
     ├─ برنامه‌های CLI
-    │     ├─ git
-    │     ├─ mysql
-    │     ├─ python
-    │     └─ docker
+    │     ├─ git/mysql/python/docker
     ├─ برنامه‌های TUI
-    │     ├─ nano
-    │     ├─ vim
-    │     ├─ htop
+    │     ├─ nano/vim/htop
     └─ سایر برنامه‌های متنی
 
 API یعنی: 
@@ -106,8 +123,8 @@ Group decision support systems(GDSS), computer-supported collaborative work syst
 #kafka messaging: queue, pub/sub
 #architecture, hierarchy, asyncronize, schedule
 #concurrency: time-sliced, parallelism
-system, cpu/gpu, core/SM(streaming multiprocessing)
-task, process, thread/warp(32process)=> core, register, share memory, cache, warp schadule
+system:cpu/gpu, core/SM(streaming multiprocessing), core, register, share memory, cache, warp schadule
+task, process, thread/warp(32process)
 concurrent: multithread, async, eventloop, coroutine, actor
 parallel: multithread, multiprocess, distributed
 asynchroniz/communication/schadule: pipe, named pipe, shared memory, message queue, semaphore, mutex, signal, socket, channel
