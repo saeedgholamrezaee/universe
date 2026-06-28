@@ -1,3 +1,36 @@
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+           Proxmox
+              ▼
+            QEMU
+              ▼
+        ioctl(/dev/kvm)
+              ▼
+      Linux Kernel (KVM)
+              ▼
+     Intel VT-x / AMD-V
+              ▼
+             CPU
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+Source Code
+      ▼
+Docker / Buildah / Kaniko / Podman / ...
+      ▼
+Container Image
+      ▼
+Container Registry
+      ▼
+Kubernetes
+      ▼
+     Pod
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+اگر هدفت DevOps و Cloud باشد، پیشنهاد یادگیری این ترتیب است:
+Docker
+Kubernetes
+Helm
+Terraform
+OpenStack
+ابزارهایی مثل Ansible و Prometheus
+$$$$$$$$$$$$$$$$$$$$$$$$$$
 Software Engineering
        ↓
 Development Approaches
@@ -22,8 +55,7 @@ DevOps Practices
 | Kanban    | Framework                |
 | RUP       | Development Methodology  |
 | DevOps    | Culture + Practices      |
-
-#############################################################################
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 ترمینال فیزیکی (VT100)
         ↓
 Virtual Console / TTY لینوکس
