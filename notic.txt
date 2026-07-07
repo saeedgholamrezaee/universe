@@ -1,3 +1,22 @@
+kubectl
+    │
+    ▼
+Kubernetes API Server
+    │
+    ▼
+kubelet
+    │
+    ▼
+containerd
+    │
+    ▼
+runc
+    │
+    ▼
+Linux Kernel
+    │
+    ▼
+Container
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
            Proxmox
               ▼
