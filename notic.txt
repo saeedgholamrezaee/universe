@@ -1,3 +1,4 @@
+odoo.com u gholamrezaee.saeed@gmail.com p Peyman#1976;
 kubectl
     │
     ▼
