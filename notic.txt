@@ -1,3 +1,14 @@
+Change Focus - Mod + (j or k)
+Change Workspace – Mod + (1 - 9)
+Close Window - Mod + Shift + C
+Exit DWM - Mod + Shift + Q
+Floating Mode - Mod + f
+Monocle Mode - Mod + m
+Spawn Terminal - Mod + Shift + Enter
+Swap Windows - Mod + Enter
+Tiling Mode - Mod + t
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 odoo.com u gholamrezaee.saeed@gmail.com p Peyman#1976;
 kubectl
     │
